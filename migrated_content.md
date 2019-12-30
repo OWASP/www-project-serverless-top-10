@@ -20,7 +20,7 @@ auto-migrated: 1
 <table>
 <tbody>
 <tr class="odd">
-<p>The <a href="https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a> is now available.</p>
+<p>The <a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a> is now available.</p>
 <h2 id="introduction">Introduction</h2>
 <p>When adopting serverless technology, we eliminate the need to develop a server to manage our application. By doing so, we also pass some of the security threats to the infrastructure provider such as <a href="https://aws.amazon.com/serverless/">AWS</a>, <a href="https://azure.microsoft.com/en-us/services/functions/">Azure</a> and <a href="https://cloud.google.com/functions/">Google Cloud</a>. In addition to the many advantages of serverless application development, such as cost and scalability, some security aspects are also handed to our service provider. Serverless services run code without provisioning or managing servers and the code is executed only when needed.</p>
 <p>However, even if these applications are running without a managed server, they still execute code. If this code is written in an insecure manner, it can still be vulnerable to application-level attacks.</p>
@@ -34,12 +34,12 @@ auto-migrated: 1
 <p>The OWASP Serverless Top 10 project is sponsored by</p>
 <p><img src="Protego_logo_black.png" title="fig:Protego_logo_black.png" alt="Protego_logo_black.png" />                 <img src="PureSec-Logo.png" title="fig:PureSec-Logo.png" alt="PureSec-Logo.png" />                 <img src="Whitesource_logo_rgb-02.png" title="fig:Whitesource_logo_rgb-02.png" alt="Whitesource_logo_rgb-02.png" /></p></td>
 <td><h2 id="quick_downloads">Quick Downloads</h2>
-<p><a href="https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a></p>
-<p><a href="https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a></p>
+<p><a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a></p>
+<p><a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a></p>
 <h2 id="presentation">Presentation</h2>
 <h2 id="presentation">Presentation</h2>
-<p><a href="https://www.owasp.org/images/1/1e/OWASP_DC_SLS_Top10.pdf">Download</a></p>
-<p><a href="https://www.owasp.org/images/1/1e/OWASP_DC_SLS_Top10.pdf">Download</a></p>
+<p><a href="/www-pdf-archive/OWASP_DC_SLS_Top10.pdf">Download</a></p>
+<p><a href="/www-pdf-archive/OWASP_DC_SLS_Top10.pdf">Download</a></p>
 <h2 id="news_events">News &amp; Events</h2>
 <h2 id="news_events">News &amp; Events</h2>
 <ul>
@@ -50,8 +50,8 @@ auto-migrated: 1
 <li>[18 Sep 2018]: Join our <a href="https://join.slack.com/t/owasp/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY">Slack-channel</a> <strong>#project-sls-top-10</strong>.</li>
 <li>[22 Sep 2018]: Follow our <a href="https://github.com/OWASP/Serverless-Top-10-Project/">Git Repo</a>.</li>
 <li>[22 Sep 2018]: Follow our <a href="https://github.com/OWASP/Serverless-Top-10-Project/">Git Repo</a>.</li>
-<li>[25 Oct 2018]: <a href="https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf"><strong>First Release!</strong></a></li>
-<li>[25 Oct 2018]: <a href="https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf"><strong>First Release!</strong></a></li>
+<li>[25 Oct 2018]: <a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf"><strong>First Release!</strong></a></li>
+<li>[25 Oct 2018]: <a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf"><strong>First Release!</strong></a></li>
 <li>[30 Oct 2018]: PureSec joined as sponsor</li>
 <li>[30 Oct 2018]: PureSec joined as sponsor</li>
 <li>[02 Nov 2018]: OWASP <a href="https://owasp.blogspot.com/2018/11/serverless-top-10-added-to-project.html">Official Announcement</a></li>
@@ -62,16 +62,16 @@ auto-migrated: 1
 </ul>
 <h2 id="project_leaders">Project Leaders</h2>
 <h2 id="project_leaders">Project Leaders</h2>
-<p><a href="User:Tal_Mel" title="wikilink">Tal Melamed</a></p>
-<p><a href="User:Tal_Mel" title="wikilink">Tal Melamed</a></p>
-<p><a href="User:MarcinHoppe" title="wikilink">Marcin Hoppe</a></p>
-<p><a href="User:MarcinHoppe" title="wikilink">Marcin Hoppe</a></p>
-<p><a href="Coming_soon!" title="wikilink">Coming soon!</a></p>
-<p><a href="Coming_soon!" title="wikilink">Coming soon!</a></p>
+<p><a href="User:Tal_Mel" title=>Tal Melamed</a></p>
+<p><a href="User:Tal_Mel" title=>Tal Melamed</a></p>
+<p><a href="User:MarcinHoppe" title=>Marcin Hoppe</a></p>
+<p><a href="User:MarcinHoppe" title=>Marcin Hoppe</a></p>
+<p><a href="Coming_soon!" title=>Coming soon!</a></p>
+<p><a href="Coming_soon!" title=>Coming soon!</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <h2 id="related_projects">Related Projects</h2>
-<p><a href=":Category:OWASP_Top_Ten_Project" title="wikilink">OWASP Top 10 Project</a></p></td>
-<p><a href=":Category:OWASP_Top_Ten_Project" title="wikilink">OWASP Top 10 Project</a></p></td>
+<p><a href=":Category:OWASP_Top_Ten_Project" title=>OWASP Top 10 Project</a></p></td>
+<p><a href=":Category:OWASP_Top_Ten_Project" title=>OWASP Top 10 Project</a></p></td>
 </tr>
 </tr>
 </tbody>
@@ -86,8 +86,8 @@ auto-migrated: 1
 
   - <b>Chinese:</b> <u>[OWASP Top 10 - Serverless Interpretation
   - <b>Chinese:</b> <u>[OWASP Top 10 - Serverless Interpretation
-    中文版（PDF)](https://www.owasp.org/images/2/23/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
-    中文版（PDF)](https://www.owasp.org/images/2/23/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
+    中文版（PDF)](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
+    中文版（PDF)](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
 
 
 项目牵头人：肖文棣、王颉（wangj@owasp.org.cn）
@@ -192,8 +192,8 @@ auto-migrated: 1
 
 The [OWASP Top 10: Serverless
 The [OWASP Top 10: Serverless
-Interpretation](https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf)
-Interpretation](https://www.owasp.org/images/5/5c/OWASP-Top-10-Serverless-Interpretation-en.pdf)
+Interpretation](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf)
+Interpretation](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf)
 is now available.
 is now available.
 
@@ -270,11 +270,11 @@ __NOTOC__ <headertabs />
 
 
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
+[Category:OWASP_Document](Category:OWASP_Document )
