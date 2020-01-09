@@ -14,9 +14,9 @@ tags: acknowledgments
 
 ## Sponsors
 
-![Protego][protego]
-![PureSec][puresec]
-![WhiteSource][whitesource]
+* ![Protego][protego]
+* ![PureSec][puresec]
+* ![WhiteSource][whitesource]
 
 ## Contributors
 
@@ -55,4 +55,4 @@ tags: acknowledgments
 [owasp]: https://www.owasp.org/index.php/User:Tal_Mel
 [protego]: /assets/images/protego_logo.png
 [puresec]: /assets/images/puresec_logo.png
-[whitesurce]: /assets/images/whitesurce_logo.png
+[whitesurce]: /assets/images/whitesource_logo.png
