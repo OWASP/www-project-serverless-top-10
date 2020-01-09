@@ -55,4 +55,4 @@ tags: acknowledgments
 [owasp]: https://www.owasp.org/index.php/User:Tal_Mel
 [protego]: /assets/images/protego_logo.png
 [puresec]: /assets/images/puresec_logo.png
-[whitesurce]: /assets/images/whitesource_logo.png
+[whitesource]: /assets/images/whitesource_logo.png
