@@ -9,7 +9,8 @@ tags: acknowledgments
 
 ## Founder
 
-* [Tal Melamed][email] | [OWASP][owasp] | [LinkedIn][linkedin]
+[Tal Melamed][email] | [OWASP][owasp] | [LinkedIn][linkedin]
+
 
 
 ## Sponsors
@@ -17,6 +18,8 @@ tags: acknowledgments
 * ![protego][protego]
 * ![PureSec][puresec]
 * ![WhiteSource][whitesource]
+
+
 
 ## Contributors
 
