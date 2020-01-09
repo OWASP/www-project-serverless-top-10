@@ -24,9 +24,3 @@ type: documentation
 <p>OWASP Serverless Top 10 aims at educating practitioners and organizations about the consequences of the most common serverless application security vulnerabilities, as well as providing basic techniques to identify and protect against them.</p>
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP Serverless Top 10 is free to use. It is licensed under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 license</a> (CC BY-SA 4.0).</p>
-
-{info.md}
-
-
-{leaders.md}
-
