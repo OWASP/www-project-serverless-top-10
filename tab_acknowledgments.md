@@ -56,7 +56,7 @@ tags: acknowledgments
 [email]: mailto:tal.melamed@owasp.org
 [linkedin]: https://www.linkedin.com/in/talmelamed/
 [owasp]: https://www.owasp.org/index.php/User:Tal_Mel
-[protego]: /assets/images/protego_logo.png
+[protego]: https://github.com/OWASP/www-project-serverless-top-10/blob/master/assets/images/protego_logo.png
 [cp]: http://checkpoint.com
-[puresec]: /assets/images/puresec_logo.png
-[whitesource]: /assets/images/whitesource_logo.png
+[puresec]: https://github.com/OWASP/www-project-serverless-top-10/blob/master/assets/images/puresec_logo.png
+[whitesource]: https://github.com/OWASP/www-project-serverless-top-10/blob/master/assets/images/whitesource_logo.png
