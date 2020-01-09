@@ -51,7 +51,6 @@ auto-migrated: 1
 <h2 id="project_leaders">Project Leaders</h2>
 <p><a href="User:Tal_Mel" title=>Tal Melamed</a></p>
 <p><a href="User:MarcinHoppe" title=>Marcin Hoppe</a></p>
-<p><a href="Coming_soon!" title=>Coming soon!</a></p>
 <h2 id="related_projects">Related Projects</h2>
 <p><a href=":Category:OWASP_Top_Ten_Project" title=>OWASP Top 10 Project</a></p></td>
 </tr>
@@ -93,8 +92,6 @@ auto-migrated: 1
 
 
 |                                  |
-|                                  |
-| -------------------------------- |
 | -------------------------------- |
 | **<big>Report Reviewers </big>** |
 | Assaf Hefetz, Snyk               |
