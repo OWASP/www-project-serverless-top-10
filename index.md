@@ -24,14 +24,9 @@ type: documentation
 <p>OWASP Serverless Top 10 aims at educating practitioners and organizations about the consequences of the most common serverless application security vulnerabilities, as well as providing basic techniques to identify and protect against them.</p>
 <h2 id="licensing">Licensing</h2>
 <p>The OWASP Serverless Top 10 is free to use. It is licensed under the <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 license</a> (CC BY-SA 4.0).</p>
-<h2 id="project_sponsors">Project Sponsors</h2>
 
 {info.md}
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
 
 {leaders.md}
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
