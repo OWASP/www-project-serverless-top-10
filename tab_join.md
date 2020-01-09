@@ -26,8 +26,7 @@ Possible ways to get contribute:
   
 ## Slack
 
-Join out Slack channel:
-https://join.slack.com/t/owasp/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY
+Join out [Slack channel][slack]
 
 
 
@@ -46,3 +45,4 @@ Ready to contribute directly into the repo? Great! Just make sure you read the
 [repo]: https://github.com/OWASP/Serverless-Top-10-Project/
 [issue]: https://github.com/OWASP/Serverless-Top-10-Project/issues
 [contributing]: https://github.com/OWASP/Serverless-Top-10-Project/blob/master/CONTRIBUTING.md
+[slack]: https://join.slack.com/t/owasp/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY
