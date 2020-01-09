@@ -14,7 +14,7 @@ tags: acknowledgments
 
 ## Sponsors
 
-* ![protego](http://url/to/img.png)
+* ![protego][protego]
 * ![PureSec][puresec]
 * ![WhiteSource][whitesource]
 
@@ -54,5 +54,6 @@ tags: acknowledgments
 [linkedin]: https://www.linkedin.com/in/talmelamed/
 [owasp]: https://www.owasp.org/index.php/User:Tal_Mel
 [protego]: /assets/images/protego_logo.png
+[cp]: http://checkpoint.com
 [puresec]: /assets/images/puresec_logo.png
 [whitesource]: /assets/images/whitesource_logo.png
