@@ -35,72 +35,44 @@ auto-migrated: 1
 <p><img src="Protego_logo_black.png" title="fig:Protego_logo_black.png" alt="Protego_logo_black.png" />                 <img src="PureSec-Logo.png" title="fig:PureSec-Logo.png" alt="PureSec-Logo.png" />                 <img src="Whitesource_logo_rgb-02.png" title="fig:Whitesource_logo_rgb-02.png" alt="Whitesource_logo_rgb-02.png" /></p></td>
 <td><h2 id="quick_downloads">Quick Downloads</h2>
 <p><a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a></p>
-<p><a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf">OWASP Top 10: Serverless Interpretation</a></p>
-<h2 id="presentation">Presentation</h2>
 <h2 id="presentation">Presentation</h2>
 <p><a href="/www-pdf-archive/OWASP_DC_SLS_Top10.pdf">Download</a></p>
-<p><a href="/www-pdf-archive/OWASP_DC_SLS_Top10.pdf">Download</a></p>
-<h2 id="news_events">News &amp; Events</h2>
 <h2 id="news_events">News &amp; Events</h2>
 <ul>
-<ul>
-<li>[01 Sep 2018]: Hello World! Project was donated by <a href="https://protego.io">Protego Labs</a></li>
 <li>[01 Sep 2018]: Hello World! Project was donated by <a href="https://protego.io">Protego Labs</a></li>
 <li>[18 Sep 2018]: Join our <a href="https://join.slack.com/t/owasp/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY">Slack-channel</a> <strong>#project-sls-top-10</strong>.</li>
-<li>[18 Sep 2018]: Join our <a href="https://join.slack.com/t/owasp/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY">Slack-channel</a> <strong>#project-sls-top-10</strong>.</li>
-<li>[22 Sep 2018]: Follow our <a href="https://github.com/OWASP/Serverless-Top-10-Project/">Git Repo</a>.</li>
 <li>[22 Sep 2018]: Follow our <a href="https://github.com/OWASP/Serverless-Top-10-Project/">Git Repo</a>.</li>
 <li>[25 Oct 2018]: <a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf"><strong>First Release!</strong></a></li>
-<li>[25 Oct 2018]: <a href="/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf"><strong>First Release!</strong></a></li>
-<li>[30 Oct 2018]: PureSec joined as sponsor</li>
 <li>[30 Oct 2018]: PureSec joined as sponsor</li>
 <li>[02 Nov 2018]: OWASP <a href="https://owasp.blogspot.com/2018/11/serverless-top-10-added-to-project.html">Official Announcement</a></li>
-<li>[02 Nov 2018]: OWASP <a href="https://owasp.blogspot.com/2018/11/serverless-top-10-added-to-project.html">Official Announcement</a></li>
-<li>[13 Dec 2018]: WhiteSource joined as sponsor</li>
 <li>[13 Dec 2018]: WhiteSource joined as sponsor</li>
 </ul>
 </ul>
 <h2 id="project_leaders">Project Leaders</h2>
-<h2 id="project_leaders">Project Leaders</h2>
-<p><a href="User:Tal_Mel" title=>Tal Melamed</a></p>
 <p><a href="User:Tal_Mel" title=>Tal Melamed</a></p>
 <p><a href="User:MarcinHoppe" title=>Marcin Hoppe</a></p>
-<p><a href="User:MarcinHoppe" title=>Marcin Hoppe</a></p>
-<p><a href="Coming_soon!" title=>Coming soon!</a></p>
 <p><a href="Coming_soon!" title=>Coming soon!</a></p>
 <h2 id="related_projects">Related Projects</h2>
-<h2 id="related_projects">Related Projects</h2>
-<p><a href=":Category:OWASP_Top_Ten_Project" title=>OWASP Top 10 Project</a></p></td>
 <p><a href=":Category:OWASP_Top_Ten_Project" title=>OWASP Top 10 Project</a></p></td>
 </tr>
-</tr>
 </tbody>
-</tbody>
-</table>
 </table>
 
 
 # Translation Efforts
-# Translation Efforts
 
 
   - <b>Chinese:</b> <u>[OWASP Top 10 - Serverless Interpretation
-  - <b>Chinese:</b> <u>[OWASP Top 10 - Serverless Interpretation
-    中文版（PDF)](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
     中文版（PDF)](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
 
 
 项目牵头人：肖文棣、王颉（wangj@owasp.org.cn）
-项目牵头人：肖文棣、王颉（wangj@owasp.org.cn）
-项目组成员：刘晓辉、李宇全、明敏、王斌（排名不分先后，按姓氏拼音排列）
 项目组成员：刘晓辉、李宇全、明敏、王斌（排名不分先后，按姓氏拼音排列）
 
 
 # Acknowledgments
-# Acknowledgments
 
 
-###
 ###
 
 
@@ -109,18 +81,14 @@ auto-migrated: 1
 | ------------------------------------------------------------------------------------------- |
 | ------------------------------------------------------------------------------------------- |
 | **<big>Sponsors </big>**                                                                    |
-| **<big>Sponsors </big>**                                                                    |
 |                                                                                             |
 |                                                                                             |
-| ![Protego_logo_black.png](Protego_logo_black.png "Protego_logo_black.png")                |
 | ![Protego_logo_black.png](Protego_logo_black.png "Protego_logo_black.png")                |
 |                                                                                             |
 |                                                                                             |
 | ![PureSec-Logo.png](PureSec-Logo.png "PureSec-Logo.png")                                    |
-| ![PureSec-Logo.png](PureSec-Logo.png "PureSec-Logo.png")                                    |
 |                                                                                             |
 |                                                                                             |
-| ![Whitesource_logo_rgb-02.png](Whitesource_logo_rgb-02.png "Whitesource_logo_rgb-02.png") |
 | ![Whitesource_logo_rgb-02.png](Whitesource_logo_rgb-02.png "Whitesource_logo_rgb-02.png") |
 
 
@@ -129,140 +97,82 @@ auto-migrated: 1
 | -------------------------------- |
 | -------------------------------- |
 | **<big>Report Reviewers </big>** |
-| **<big>Report Reviewers </big>** |
-| Assaf Hefetz, Snyk               |
 | Assaf Hefetz, Snyk               |
 | Erez Metula, AppSec Labs         |
-| Erez Metula, AppSec Labs         |
-| Erez Yalon, Checkmarx            |
 | Erez Yalon, Checkmarx            |
 | Frank M. Catucci, OWASP          |
-| Frank M. Catucci, OWASP          |
-| Guy Bernhart-Magen, Intel        |
 | Guy Bernhart-Magen, Intel        |
 | Hemed Gur Ary, OWASP             |
-| Hemed Gur Ary, OWASP             |
-| Jeff Williams, Contrast Security |
 | Jeff Williams, Contrast Security |
 | Jim DelGrosso, Synopsys          |
-| Jim DelGrosso, Synopsys          |
-| Jochanan Sommerfeld, RDuck       |
 | Jochanan Sommerfeld, RDuck       |
 | Kobi Lechner, INFINIDAT          |
-| Kobi Lechner, INFINIDAT          |
-| Limor Sylvie Kessem, IBM         |
 | Limor Sylvie Kessem, IBM         |
 | Marcin Hoppe, Auth0              |
-| Marcin Hoppe, Auth0              |
-| Mark Johnston, Google            |
 | Mark Johnston, Google            |
 | Martin Knobloch, OWASP           |
-| Martin Knobloch, OWASP           |
-| Matthew Henderson, Microsoft     |
 | Matthew Henderson, Microsoft     |
 | Matteo Meucci, Minded Security   |
-| Matteo Meucci, Minded Security   |
-| Owen Pendlebury, OWASP           |
 | Owen Pendlebury, OWASP           |
 | Paco Hope, AWS                   |
-| Paco Hope, AWS                   |
-| Patrick Laverty, Rapid7          |
 | Patrick Laverty, Rapid7          |
 | Rupack Ganguly, Serverless Inc.  |
-| Rupack Ganguly, Serverless Inc.  |
-| Tanya Janca, Microsoft           |
 | Tanya Janca, Microsoft           |
 | Tash Norris, Capital One         |
-| Tash Norris, Capital One         |
-| Tom Brennan, IOActive            |
 | Tom Brennan, IOActive            |
 | Yan Cui, DAZN                    |
-| Yan Cui, DAZN                    |
-| Youssef Elmalty, AWS             |
 | Youssef Elmalty, AWS             |
 
 
 # Project Resources
-# Project Resources
 
 
-## OWASP Serverless Top 10 - First Released
 ## OWASP Serverless Top 10 - First Released
 
 
 The [OWASP Top 10: Serverless
-The [OWASP Top 10: Serverless
 Interpretation](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf)
-Interpretation](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-en.pdf)
-is now available.
 is now available.
 
 
 [GitHub repository](https://github.com/OWASP/Serverless-Top-10-Project/)
-[GitHub repository](https://github.com/OWASP/Serverless-Top-10-Project/)
 
 
-# Roadmap
-# Roadmap
 
 
-# Get involved
 # Get involved
 
 
 Get involved in <strong> OWASP Serverless Top 10</strong>\!
-Get involved in <strong> OWASP Serverless Top 10</strong>\!
 
 
 You do not have to be a security expert or a programmer to contribute.
-You do not have to be a security expert or a programmer to contribute.
 Contact the Project Leader(s) to get involved, we welcome any type of
-Contact the Project Leader(s) to get involved, we welcome any type of
-suggestions and comments.
 suggestions and comments.
 
 
 Possible ways to get contribute:
-Possible ways to get contribute:
 
 
   - We are actively looking for organizations and individuals that will
-  - We are actively looking for organizations and individuals that will
-    provide vulnerability prevalence data.
     provide vulnerability prevalence data.
   - Translation efforts (later stages)
-  - Translation efforts (later stages)
-  - Assisting in the development of related tools (e.g. DVSA)
   - Assisting in the development of related tools (e.g. DVSA)
 
 
 Individuals and organizations that will contribute to the project will
-Individuals and organizations that will contribute to the project will
-listed on the acknowledgments page.
 listed on the acknowledgments page.
 
-
-Also, join our Slack Channel
-Also, join our Slack Channel
-[**\#project-sls-top-10**](https://join.slack.com/t/owasp/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY)
-[**\#project-sls-top-10**](https://join.slack.com/t/owasp/shared_invite/enQtNDI5MzgxMDQ2MTAwLTEyNzIzYWQ2NDZiMGIwNmJhYzYxZDJiNTM0ZmZiZmJlY2EwZmMwYjAyNmJjNzQxNzMyMWY4OTk3ZTQ0MzFhMDY)
-
-
 GitHub [project
-GitHub [project
-page](https://github.com/OWASP/Serverless-Top-10-Project/)
 page](https://github.com/OWASP/Serverless-Top-10-Project/)
 
 
 # About
-# About
 
 
 <span style="color:#ff0000">
-<span style="color:#ff0000">
 
 
-__NOTOC__ <headertabs />
 __NOTOC__ <headertabs />
 
 
@@ -271,10 +181,6 @@ __NOTOC__ <headertabs />
 
 
 [Category:OWASP Project](Category:OWASP_Project )
-[Category:OWASP Project](Category:OWASP_Project )
-[Category:OWASP_Builders](Category:OWASP_Builders )
 [Category:OWASP_Builders](Category:OWASP_Builders )
 [Category:OWASP_Defenders](Category:OWASP_Defenders )
-[Category:OWASP_Defenders](Category:OWASP_Defenders )
-[Category:OWASP_Document](Category:OWASP_Document )
 [Category:OWASP_Document](Category:OWASP_Document )
