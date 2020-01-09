@@ -2,16 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Serverless Top 10
-tags: example-tag
-level: 0
+tags: serverless security top10 acknowledgments translations join roadmap news 
+level: 2
 type: documentation
 
-auto-migrated: 1
-auto-migrated: 1
-
-auto-migrated: 1
-
----
 
 
 <!-- Standard Chapter Page Template
