@@ -53,6 +53,6 @@ tags: acknowledgments
 [email]: mailto:tal.melamed@owasp.org
 [linkedin]: https://www.linkedin.com/in/talmelamed/
 [owasp]: https://www.owasp.org/index.php/User:Tal_Mel
-[protego]: /assets/images/protego-logo.png
-[puresec]: /assets/images/puresec-logo.png
-[whitesurce]: /assets/images/whitesurce-logo.png
+[protego]: /assets/images/protego_logo.png
+[puresec]: /assets/images/puresec_logo.png
+[whitesurce]: /assets/images/whitesurce_logo.png
