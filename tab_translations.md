@@ -1,3 +1,12 @@
+---
+title: Translations
+layout:  null
+tab: true
+order: 3
+tags: translations
+---
+
+
 # Translation Efforts
 
 
