@@ -9,7 +9,7 @@ tags: acknowledgments
 
 ## Founder
 
-* [Tal Melamed][talmelamed]
+* [Tal Melamed][email] | [OWASP][owasp] | [LinkedIn][linkedin]
 
 
 ## Sponsors
@@ -50,8 +50,9 @@ tags: acknowledgments
 | Youssef Elmalty, AWS             |
 
 
-
-[talmelamed]: https://www.owasp.org/index.php/User:Tal_Mel
+[email]: mailto:tal.melamed@owasp.org
+[linkedin]: https://www.linkedin.com/in/talmelamed/
+[owasp]: https://www.owasp.org/index.php/User:Tal_Mel
 [protego]: /assets/images/protego-logo.png
 [puresec]: /assets/images/puresec-logo.png
 [whitesurce]: /assets/images/whitesurce-logo.png
