@@ -1,3 +1,13 @@
+---
+title: News
+layout:  null
+tab: true
+order: 1
+tags: news
+---
+
+
+
 <h2 id="news_events">News &amp; Events</h2>
 <ul>
 <li>[01 Sep 2018]: Hello World! Project was donated by <a href="https://protego.io">Protego Labs</a></li>
