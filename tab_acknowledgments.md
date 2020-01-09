@@ -14,7 +14,7 @@ tags: acknowledgments
 
 ## Sponsors
 
-* ![Protego][protego]
+* ![https://protego.io][protego]
 * ![PureSec][puresec]
 * ![WhiteSource][whitesource]
 
