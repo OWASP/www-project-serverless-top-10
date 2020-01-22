@@ -14,7 +14,7 @@ type: documentation
 The [OWASP Top 10: Serverless Interpretation](https://github.com/OWASP/Serverless-Top-10-Project/raw/master/OWASP-Top-10-Serverless-Interpretation-en.pdf) is now available.
 
 ## Introduction
-When adopting serverless technology, we eliminate the need to develop a server to manage our application. By doing so, we also pass some of the security threats to the infrastructure provider such as [AWS](https://aws.amazon.com/serverless), [Azure] (https://azure.microsoft.com/en-us/services/functions/) and [GCP](https://cloud.google.com/functions/). In addition to the many advantages of serverless application development, such as cost and scalability, some security aspects are also handed to our service provider. Serverless services run code without provisioning or managing servers and the code is executed only when needed.
+When adopting serverless technology, we eliminate the need to develop a server to manage our application. By doing so, we also pass some of the security threats to the infrastructure provider such as [AWS](https://aws.amazon.com/serverless), [Azure](https://azure.microsoft.com/en-us/services/functions/) and [GCP](https://cloud.google.com/functions/). In addition to the many advantages of serverless application development, such as cost and scalability, some security aspects are also handed to our service provider. Serverless services run code without provisioning or managing servers and the code is executed only when needed.
 
 However, even if these applications are running without a managed server, they still execute code. If this code is written in an insecure manner, it can still be vulnerable to application-level attacks.
 
