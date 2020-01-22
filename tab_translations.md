@@ -11,7 +11,7 @@ tags: translations
 
 
   - <b>Chinese:</b> <u>[OWASP Top 10 - Serverless Interpretation
-    中文版（PDF)](/www-pdf-archive/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
+    中文版（PDF)](https://github.com/OWASP/Serverless-Top-10-Project/raw/master/2018/cn/OWASP-Top-10-Serverless-Interpretation-cn-v1.0.pdf)</u>
 
 
 项目牵头人：肖文棣、王颉（wangj@owasp.org.cn）
