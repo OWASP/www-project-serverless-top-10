@@ -18,7 +18,7 @@ When adopting serverless technology, we eliminate the need to develop a server t
 
 However, even if these applications are running without a managed server, they still execute code. If this code is written in an insecure manner, it can still be vulnerable to application-level attacks.
 
-The interpretation report examines the differences in attack vectors, security weaknesses, and the business impact of application attacks on in the serverless world, and, most importantly, the report will suggest ways to to prevent them. As we will be able to see in the report, attack and defense techniques are different from what we used to in the traditional application world.
+The interpretation report examines the differences in attack vectors, security weaknesses, and the business impact of application attacks on in the serverless world, and, most importantly, the report will suggest ways to prevent them. As we will be able to see in the report, attack and defense techniques are different from what we used to in the traditional application world.
 
 After that, an open-call will be established to collect data in the wild and establishing the official Serverless Top 10 Report.
 
