@@ -15,7 +15,7 @@ tags: acknowledgments
 
 ## Sponsors
 
-* ![contrast][contrast]
+![contrast][contrast]
 
 
 
