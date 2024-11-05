@@ -22,7 +22,7 @@ Possible ways to get contribute:
   - We are actively looking for organizations and individuals that will
     provide vulnerability prevalence data.
   - Translation efforts (later stages)
-  - Assisting in the development of related tools (e.g. DVSA)
+  - Assisting in the development of related and relevant tools (e.g. DVSA)
   
 ## Slack
 
