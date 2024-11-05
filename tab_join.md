@@ -29,7 +29,6 @@ Possible ways to get contribute:
 Join out [Slack channel][slack]
 
 
-
 ## GitHub
 
 The project is maintained in the [OWASP Serverless Top 10][repo].
