@@ -1,0 +1,35 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Tal Melamed
+    email: tal.melamed@owasp.org
+    github: 4ppsec
+  - name: Aruneesh Salhotra
+    email: aruneesh.salhotra@owasp.org
+    github: aruneeshsalhotra
+  - name: David Melamed
+    email: david.melamed@owasp.org
+    github: DavidLambertCyber
+level: 2
+name: OWASP Serverless Top 10
+pitch: Description for OWASP Serverless Top 10
+repositories:
+  - name: www-project-serverless-top-10
+    url: https://github.com/OWASP/www-project-serverless-top-10
+    description: OWASP Foundation Web Repository
+  - name: Serverless-Top-10-Project
+    url: https://github.com/OWASP/Serverless-Top-10-Project
+    description: OWASP Serverless Top 10
+tags:
+  - serverless
+  - security
+  - top10
+  - acknowledgments
+  - translations
+  - join
+  - roadmap
+  - news
+type: documentation
+website: https://owasp.org/www-project-serverless-top-10
